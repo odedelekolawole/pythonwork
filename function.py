@@ -13,7 +13,7 @@
 
 
 def user(name, age, state):
-    response = f'Welcome {name}, you are {age} year old. You are from the {state} state, Nigeria'
+    response = f'Welcome {name}, you are {age} years old. You are from the {state} state, Nigeria'
     print(response)
 name = input("Enter your name:\n")
 age = input("Enter your age:\n")
